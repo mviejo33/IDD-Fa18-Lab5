@@ -24,4 +24,4 @@ The materials used were cardboard, tape, hot glue, a screw and a coin.
 
 ![My useless box](https://github.com/mviejo33/IDD-Fa18-Lab5/blob/master/Screenshot_20181010-214024.png)
 
-![My useless box in action](https://www.youtube.com/watch?v=vJGAEqZ8vjs)
+[My useless box in action](https://www.youtube.com/watch?v=vJGAEqZ8vjs)
