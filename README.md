@@ -2,21 +2,26 @@
 
 ## 3D Printing
 
-**a. Include a photo of your printed part here.**
-**b. Include `.stl` or `.svg` files for your bopper, if 3d-printing.**
+![Laser cutting the box template](https://github.com/mviejo33/IDD-Fa18-Lab5/blob/master/Screenshot_20181010-210749.png)
 
 ## Laser Cutting
 
-**b. Include a photo of your box here.**
+![Box](https://github.com/mviejo33/IDD-Fa18-Lab5/blob/master/IMG_20181010_183250.jpg)
 
 ## Electronics
 
-**c. Upload code & a photo of your electronic circuit here.**
+[Arduino code](//github.com/mviejo33/IDD-Fa18-Lab5/blob/master/uselessbox.ino)
+
+![Electronic circuit](https://github.com/mviejo33/IDD-Fa18-Lab5/blob/master/IMG_20181010_212641.jpg)
 
 ## Putting it All Together
 
-Include here:
-1. Your Arduino code.
-1. `.stl` or `.svg` files for your "bopper" — if you use some other technique, include the respective supporting material.
-1. At least one photo of your useless box taken in the MakerLab's Portable Photo Studio (or somewhere else, but of similar quality).
-1. A video of your useless box in action.
+[Arduino code](//github.com/mviejo33/IDD-Fa18-Lab5/blob/master/uselessbox.ino)
+
+To make the bopper, I used cardboard and a coin, I took advantage or torque by adding an extension to the switch so that the force applied to the tip of the extension would be greater than just hitting the actual switch. 
+
+The materials used were cardboard, tape, hot glue, a screw and a coin. 
+
+![My useless box](https://github.com/mviejo33/IDD-Fa18-Lab5/blob/master/Screenshot_20181010-214024.png)
+
+![My useless box in action](https://www.youtube.com/watch?v=vJGAEqZ8vjs)
